@@ -1,5 +1,5 @@
 # SnakeArcade
-A classic snake game using Python
+A classic snake game using Python. Objective was to explore pygame library. 
 
 ## Libraries used - 
 * pygame
