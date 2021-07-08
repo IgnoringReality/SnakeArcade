@@ -1,17 +1,15 @@
 # SnakeArcade
 A classic snake game using Python
 
-Libraries used - 
+## Libraries used - 
 * pygame
 * enum
 * time
 * random
 
 
-References used - 
+## References used - 
 
-	1. https://www.pygame.org/
-	2. https://stackoverflow.com/
-	3. https://www.geeksforgeeks.org/
-	4. https://www.youtube.com/playlist?list=PLXI2YOyE9BLkzfZ0Ry6gQWrrIK7kmVuU9
-	5. https://www.edureka.co/blog/snake-game-with-pygame/
+* [Pygame website](https://www.pygame.org/)
+* [This amazing youtube video](https://www.youtube.com/playlist?list=PLXI2YOyE9BLkzfZ0Ry6gQWrrIK7kmVuU9)
+* [Edureka tutorial](https://www.edureka.co/blog/snake-game-with-pygame/)
